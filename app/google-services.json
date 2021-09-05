@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824450950955",
+    "project_id": "notes-84b26",
+    "storage_bucket": "notes-84b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824450950955:android:4e5064746349d36581876e",
+        "android_client_info": {
+          "package_name": "com.abhinav.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824450950955-t85po38cfutihh905kj08abhebvbohuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWVVv_gOsbwpd6mLPLVZGeEUK8dJapTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824450950955-t85po38cfutihh905kj08abhebvbohuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
